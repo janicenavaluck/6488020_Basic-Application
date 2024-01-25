@@ -27,7 +27,7 @@ class Content extends StatelessWidget {
         Counter('6488020'),
         Counter('Navaluck Duwa'),
         Counter('Gourmet Go: Mobile application for food recipe'),
-        Counter('6488020, 6488048, 6488057, 6488080'),
+        Counter('6488020, 6488048, 6488057, 6488085'),
       ],
     );
   }
